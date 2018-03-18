@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
+## Getting Started
+
+1. Clone the repo: 
+```bash
+$ git clone https://github.com/weihungchin/angular-material-custom-svg.git
+```
+2. Cd into the folder, angular-material-custom-svg
+
+3. Run npm install
+```bash
+$ npm install
+```
+4. Serve the app at localhost:4200
+```bash
+$ ng serve
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
